@@ -8,10 +8,10 @@ const Header = () => {
       <Flex alignItems="center" mb="1rem">
         <Image src={logo} alt="logo" width={70} fill="red" mr="1rem"></Image>
         <Heading color="blackAlpha.900" size="xl">
-          WawancaraAI
+          Website
         </Heading>
       </Flex>
-      <Text fontSize="lg" textAlign="center">
+      <Text fontSize="lg" textAlign="center" color="blackAlpha.600">
         Situs web bertenaga AI yang membantu pencari kerja dalam mempersiapkan
         diri untuk wawancara kerja
       </Text>
