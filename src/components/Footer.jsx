@@ -4,7 +4,7 @@ import logo from "../assets/openai-icon.svg";
 
 const Footer = () => {
   return (
-    <Box mt='2rem'>
+    <Box mt='5rem' mb='1rem'>
       <Flex justifyContent="center" alignItems="center">
         <Text mr={2}>Powered by</Text>
         <Image src={logo} width='15%'></Image>
