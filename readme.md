@@ -2,6 +2,7 @@
 # WawancaraAI
 
 Situs web bertenaga AI yang membantu pencari kerja dalam mempersiapkan diri untuk wawancara kerja.
+![App Screenshot](https://github.com/mercyano/wawancara-ai/blob/master/WawancaraAI-screenshot.png)
 
 ## How to use
 
@@ -25,7 +26,5 @@ Run the dev server:
 Open http://localhost:3000 with your browser to see the result.
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
